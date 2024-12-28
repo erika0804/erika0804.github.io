@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-<!-- meta stuff -->
-<!-- <meta charset = 'UTF-8'>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-* __width=device-width__: sets the width of the page to follow the screen-width of the device
-* __initial-scale=1.0__: the initial zoom level when the page is first loaded by the browser -->
 
 <html>
     <head>
