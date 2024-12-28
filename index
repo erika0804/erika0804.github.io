@@ -1,19 +1,24 @@
+<!DOCTYPE html>
 <!-- meta stuff -->
-<meta charset = 'UTF-8'>
+<!-- <meta charset = 'UTF-8'>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 * __width=device-width__: sets the width of the page to follow the screen-width of the device
-* __initial-scale=1.0__: the initial zoom level when the page is first loaded by the browser
+* __initial-scale=1.0__: the initial zoom level when the page is first loaded by the browser -->
 
-<head>
-    <title>Personal Website</title>
-</head>
+<html>
+    <head>
+     <title>Erika's Portfolio</title>
+     <meta charset="UTF-8">
+     <meta name="description" content="This page contains coursework from my maseter's in GIS at Clark Univerisity."
+     <meta name="author" content="Erika Lisco"
+    </head>
 
-<body>
-    <header> Content </header>
-    <h1>Heading 1</h1>
-    <h5>Heading 5</h5>
-    <p>Heading 1</p>
-    <!-- Below is Introduction section  -->
-</body>
+    <body>
+        <header> Content </header>
+            <h1>Heading 1</h1>
+                <h2>Heading 5</h5>
+        <!-- Below is Introduction section  -->
+    </body>
+</html>
 
 
