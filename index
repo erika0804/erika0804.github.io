@@ -1,0 +1,19 @@
+<!-- meta stuff -->
+<meta charset = 'UTF-8'>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+* __width=device-width__: sets the width of the page to follow the screen-width of the device
+* __initial-scale=1.0__: the initial zoom level when the page is first loaded by the browser
+
+<head>
+    <title>Personal Website</title>
+</head>
+
+<body>
+    <header> Content </header>
+    <h1>Heading 1</h1>
+    <h5>Heading 5</h5>
+    <p>Heading 1</p>
+    <!-- Below is Introduction section  -->
+</body>
+
+
