@@ -74,7 +74,7 @@ img {
        height: 210px; 
        overflow: hidden; 
        border-radius: 50%;
-       padding: 0x, 0x, 0x, 10x;
+       padding: 0x, 0x, 10x, 0x;
 }
 .title {color: #3b83b1;
         margin: 0 0 20px;
