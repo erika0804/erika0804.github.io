@@ -67,6 +67,11 @@ img {
   border-radius: 8px;
 }
 
+.prof {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
 /* Additional Styles (optional clean-up, same as before) */
 
 ul.downloads {
