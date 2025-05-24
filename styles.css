@@ -53,7 +53,7 @@ header {
 
 section {
   width: 700px;
-  height: 600px;
+  height: 500px;
   overflow-y: auto;
   padding-right: 10px;
 }
