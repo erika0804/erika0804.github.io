@@ -47,7 +47,7 @@ a:hover, a:focus {
 }
 
 header {
-  width: 300px;
+  width: 350px;
   flex-shrink: 0;
   position: sticky;
   top: 0;
