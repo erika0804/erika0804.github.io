@@ -74,7 +74,7 @@ img {
        height: 210px; 
        overflow: hidden; 
        border-radius: 50%;
-       padding: 0x, 0x, 10x, 0x;
+       padding: 0x, 0x, 20x, 0x;
        object-fit: contain;
 }
 
