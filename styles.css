@@ -84,6 +84,8 @@ img {
          font-size: 20px; 
          margin: 4x 2px; 
          cursor: pointer; 
+         display: grid;
+         place-items: center;
 }
 
 ul.downloads {
