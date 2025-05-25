@@ -173,6 +173,7 @@ footer {
   bottom: -10px;
   transform: translateX(-50%);
   width: 270px;
+  height: 103px;
   padding: 10px 20px;
   display: flex;
   gap: 16px;
