@@ -72,12 +72,6 @@ img {
 .prof{
     width: 250px;
     height: 250px;
-    -webkit-border-radius: 250px;
-    -webkit-background-clip: padding-box;
-    -moz-border-radius: 250px;
-    -moz-background-clip: padding;
-    border-radius: 50%;
-    background-clip: padding-box;
     margin: 5px 0 20px, 5px;
     float: left;
     background-size: cover;
