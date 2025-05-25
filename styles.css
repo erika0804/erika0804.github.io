@@ -168,8 +168,10 @@ footer {
   height: 103px;
   float: left;
   position: fixed;
-  bottom: -5px;
+  bottom: -20px;
   -webkit-font-smoothing:subpixel-antialiased;
   display: flex;
   justify-content: space-between; /* this will add equal space between each image */
+  text-align: justify
 }
+
