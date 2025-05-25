@@ -75,30 +75,26 @@ img {
         margin: 0 0 20px;
 }
 
-.button {background-color: #55a194; 
-         border: none; 
-         color: white; 
-         padding: 8px 24px; 
-         text-align: center; 
-         display: block; 
-         font-size: 20px; 
-         margin: auto; 
-         cursor: pointer; 
-         place-items: center;
-         border-radius: 8px;
+.button{
+	display: inline-block;
+  background-color: #55a194;
+	color: #fff;
+	margin: 20px;
+	width: 180px;
+	height: 50px;
+	border-radius: 10px;
+	position: relative;
+	overflow: hidden;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Helvetica;
+	text-align:center;
+	transition: all .5s;
+	border: none;
 }
 
-.button:hover {background-color: #3b7067; 
-         border: none; 
-         color: white; 
-         padding: 8px 24px; 
-         text-align: center; 
-         display: block; 
-         font-size: 20px; 
-         margin: auto; 
-         cursor: pointer; 
-         place-items: center;
-         border-radius: 8px;
+.button:hover{
+	transform:scale(1.1);
 }
 
 ul.downloads {
