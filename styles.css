@@ -69,10 +69,12 @@ img {
   border-radius: 8px;
 }
 
-.prof{
+.prof {
     width: 250px;
     height: 250px;
-    border-radius: 250px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
 }
 
 .title {color: #3b83b1;
