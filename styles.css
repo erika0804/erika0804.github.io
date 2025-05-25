@@ -69,13 +69,19 @@ img {
   border-radius: 8px;
 }
 
-.prof {position: relative;
-       width: 300px;
-       height: 300px; 
-       overflow: hidden; 
-       padding: 0x, 0x, 20x, 0x;
-       border-radius: 50%;
-       
+.prof{
+    width: 250px;
+    height: 250px;
+    -webkit-border-radius: 250px;
+    -webkit-background-clip: padding-box;
+    -moz-border-radius: 60px;
+    -moz-background-clip: padding;
+    border-radius: 60px;
+    background-clip: padding-box;
+    margin: 7px 0 0 5px;
+    float: left;
+    background-size: cover;
+    background-position: center center;
 }
 
 .title {color: #3b83b1;
