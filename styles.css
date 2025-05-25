@@ -166,6 +166,6 @@ footer {
   width:270px;
   float: left;
   position: fixed;
-  bottom:100px;
+  bottom: auto;
   -webkit-font-smoothing:subpixel-antialiased;
 }
