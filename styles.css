@@ -171,7 +171,6 @@ pre {
 footer {
   position: fixed;
   bottom: -10px;
-  transform: translateX(-50%);
   width: 270px;
   height: 103px;
   padding: 10px;
