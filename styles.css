@@ -70,8 +70,8 @@ img {
 }
 
 .prof {position: relative;
-       width: 350px;
-       height: 350px; 
+       width: 250px;
+       height: 250px; 
        overflow: hidden; 
        padding: 0x, 0x, 20x, 0x;
        border-radius: 50%;
