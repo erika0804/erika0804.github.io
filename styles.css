@@ -175,7 +175,7 @@ footer {
   position: fixed;
   bottom: -10px;
   -webkit-font-smoothing:subpixel-antialiased;
-  display: inline-block;
+  display: flex;
   align-items: center;
   justify-content: center;
   padding: 10px;
