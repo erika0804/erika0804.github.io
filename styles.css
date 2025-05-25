@@ -74,6 +74,7 @@ img {
        height: 350px; 
        overflow: hidden; 
        padding: 0x, 0x, 20x, 0x;
+       border-radius: 50%;
        
 }
 
