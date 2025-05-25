@@ -174,10 +174,12 @@ footer {
   transform: translateX(-50%);
   width: 270px;
   height: 103px;
-  padding: 10px 20px;
+  padding: 10px;
   display: flex;
   gap: 16px;
   align-items: center;
   justify-content: center;
-  float: left;
+  left: 0;
+  box-sizing: border-box;
+
 }
