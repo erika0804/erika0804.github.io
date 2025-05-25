@@ -169,13 +169,14 @@ pre {
 }
 
 footer {
-  width:270px;
-  height: 103px;
-  float: left;
   position: fixed;
   bottom: -10px;
-  -webkit-font-smoothing:subpixel-antialiased;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 270px;
+  padding: 10px 20px;
   display: flex;
+  gap: 16px;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: center;
 }
