@@ -174,13 +174,6 @@ footer {
     text-justify: distribute-all-lines;
 }
 
-footer a {
-    vertical-align: top;
-    display: inline-block;
-    *display: inline;
-    zoom: 1;
-}
-
 .stretch {
     width: 100%;
     display: inline-block;
