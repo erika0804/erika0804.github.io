@@ -177,5 +177,5 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
 }
