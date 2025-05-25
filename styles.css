@@ -172,6 +172,6 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
   display: flex;
   justify-content: space-between; /* this will add equal space between each image */
-  text-align: justify
+  text-align: justify;
 }
 
