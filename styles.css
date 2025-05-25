@@ -168,7 +168,7 @@ pre {
   border-radius: 5px;
 }
 
-footer {
+/* footer {
   width:270px;
   height: 103px;
   float: left;
@@ -178,5 +178,19 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
+} */
+
+.footer {
+  background-color: yellow; 
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.footer li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
 }
 
