@@ -45,9 +45,9 @@ a:hover, a:focus {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
+  width: 270px;
+  float: left;
+  position: fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -164,8 +164,8 @@ pre {
 
 footer {
   width:270px;
-  float:left;
-  position:fixed;
-  bottom:50px;
+  float: left;
+  position: fixed;
+  bottom:100px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
