@@ -81,11 +81,11 @@ img {
 .button {background-color: #84a256; 
          border: none; 
          color: white; 
-         padding: 10px 24px; 
+         padding: 8px 24px; 
          text-align: center; 
          display: inline-block; 
          font-size: 20px; 
-         margin: 2x 2px; 
+         margin: 4x 2px; 
          cursor: pointer; 
 }
 
