@@ -54,10 +54,9 @@ header {
 }
 
 section {
-  width: 800px;
-  height: 2570px;
-  overflow-y: auto;
-  padding-right: 10px;
+  width: 500px;
+  float:right;
+  padding-bottom:50px;
 }
 
 footer {
