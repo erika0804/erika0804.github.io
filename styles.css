@@ -67,8 +67,8 @@ img {
 }
 
 .prof {
-    width: 230px;
-    height: 230px;
+    width: 210px;
+    height: 210px;
     object-fit: cover;
     object-position: center;
     border-radius: 50%;
