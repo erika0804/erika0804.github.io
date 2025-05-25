@@ -163,13 +163,27 @@ pre {
   border-radius: 5px;
 }
 
-footer {
-  width:270px;
-  height: 103px;
-  float: left;
-  position: fixed;
-  bottom: 0px;
-  -webkit-font-smoothing:subpixel-antialiased;
-  display: flex;
-  justify-content: space-between; /* this will add equal space between each image */
+footer {   
+    width: 270;
+    margin-top:103px;
+    margin-left: auto; 
+    margin-right: auto;
+
+     text-align: justify;
+    -ms-text-justify: distribute-all-lines;
+    text-justify: distribute-all-lines;
+}
+
+footer a {
+    vertical-align: top;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+}
+
+.stretch {
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0
 }
