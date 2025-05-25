@@ -179,4 +179,6 @@ footer {
   gap: 16px;
   align-items: center;
   justify-content: center;
+  float: left;
+  position: fixed;
 }
