@@ -159,13 +159,13 @@ code, pre {
 pre {
   padding: 8px 15px;
   background: #f8f8f8;
-  border-radius: 5p;
+  border-radius: 5px;
 }
 
 footer {
   width:270px;
   float: left;
   position: fixed;
-  bottom: -20px;
+  bottom: 0 px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
