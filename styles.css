@@ -75,7 +75,20 @@ img {
         margin: 0 0 20px;
 }
 
-.button {background-color: #84a256; 
+.button {background-color: #55a194; 
+         border: none; 
+         color: white; 
+         padding: 8px 24px; 
+         text-align: center; 
+         display: block; 
+         font-size: 20px; 
+         margin: auto; 
+         cursor: pointer; 
+         place-items: center;
+         border-radius: 8px;
+}
+
+.button:hover {background-color: #3b7067; 
          border: none; 
          color: white; 
          padding: 8px 24px; 
