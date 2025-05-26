@@ -114,9 +114,7 @@ img {
 .logos{
   position: fixed;
   bottom: -10px;
-  width: 270px;
-  height: 103px;
-  padding: 20px;
+  padding: 22px;
   display: flex;
   gap: 16px;
   align-items: center;
