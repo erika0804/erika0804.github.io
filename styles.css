@@ -47,7 +47,6 @@ header {
   width: 270px;
   flex-shrink: 0;
   position: fixed;
-  top: 0;
   float: left;
   height: 100vh;
   overflow-y: auto;
