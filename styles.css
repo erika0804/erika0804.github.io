@@ -65,9 +65,11 @@ header ul {
 }
 
 section {
-  width: 500px;
-  float: right;
-  padding-bottom:50px;
+  width: 100%;
+  max-width: 500px;
+  padding-bottom: 50px;
+  margin-left: 270px; /* Push right of header on desktop */
+  box-sizing: border-box;
 }
 
 img {
@@ -221,6 +223,13 @@ code, pre {
     margin-left: 0;
     padding: 20px;
   }
+
+  @media screen and (max-width: 720px) {
+  section {
+    margin-left: 0;
+    width: 100%;
+  }
+}
 
   footer {
     width: 100%;
