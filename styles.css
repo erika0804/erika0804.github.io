@@ -65,11 +65,9 @@ header ul {
 }
 
 section {
-  margin-left: 270px;
-  flex-grow: 1;
-  padding: 50px;
-  overflow-y: auto;
-  padding-bottom: 50px;
+  width: 500px;
+  float: right;
+  padding-bottom:50px;
 }
 
 img {
