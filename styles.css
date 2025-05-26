@@ -113,14 +113,16 @@ img {
 
 .logos{
   position: fixed;
-  padding: 10px 0;
+  bottom: 0;
+  width: 270px;
+  padding: 20px;
   display: flex;
   gap: 16px;
   align-items: center;
   justify-content: center;
   box-sizing: border-box;
-
 }
+
 
 @media screen and (max-width: 720px) {
   .logos {
