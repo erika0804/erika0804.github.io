@@ -131,6 +131,8 @@ img {
     justify-content: center;
     flex-wrap: wrap;
     gap: 12px;
+    place-items: center;
+
   }
 }
 
