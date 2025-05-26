@@ -43,7 +43,7 @@ a {
 } */
 
 header {
-  width: 270px;
+  width: 30%;
   float: left;
   position: fixed;
   -webkit-font-smoothing:subpixel-antialiased;
